@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configurateur de réponse client amélioré</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Configurateur de réponse client amélioré</h1>
+        <form id="clientForm">
+            <div class="form-group">
+                <label>Civilité:</label>
+                <div class="radio-group">
+                    <input type="radio" id="madame" name="gender" value="Madame" required>
+                    <label for="madame">Madame</label>
+                    <input type="radio" id="monsieur" name="gender" value="Monsieur">
+                    <label for="monsieur">Monsieur</label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="clientName">Nom du client:</label>
+                <input type="text" id="clientName" required>
+            </div>
+
+            <div class="form-group">
+                <label for="groupSize">Nombre de personnes:</label>
+                <input type="number" id="groupSize" min="1" required>
+            </div>
+
+            <div class="form-group">
+                <label for="ship">Navire:</label>
+                <input type="text" id="ship" required>
+            </div>
+
+            <div class="form-group">
+                <label for="departure">Date de départ:</label>
+                <input type="date" id="departure" required>
+            </div>
+
+            <div class="form-group">
+                <label for="arrival">Date d'arrivée:</label>
+                <input type="date" id="arrival" required>
+            </div>
+
+            <div class="form-group">
+                <label for="cabinType">Type de cabine:</label>
+                <select id="cabinType" required>
+                    <option value="">Sélectionnez un type</option>
+                    <option value="Intérieure">Intérieure</option>
+                    <option value="Vue mer">Vue mer</option>
+                    <option value="Balcon">Balcon</option>
+                    <option value="Suite">Suite</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="price">Prix par personne:</label>
+                <input type="number" id="price" min="0" step="0.01" required>
+            </div>
+
+            <div class="form-group">
+                <label>Options supplémentaires:</label>
+                <div class="checkbox-group">
+                    <input type="checkbox" id="premiumPackage" name="options" value="Package Premium">
+                    <label for="premiumPackage">Package Premium</label>
+                    <input type="checkbox" id="excursions" name="options" value="Excursions">
+                    <label for="excursions">Excursions</label>
+                    <input type="checkbox" id="spa" name="options" value="Accès Spa">
+                    <label for="spa">Accès Spa</label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="language">Langue de la réponse:</label>
+                <select id="language">
+                    <option value="fr">Français</option>
+                    <option value="en">Anglais</option>
+                    <option value="de">Allemand</option>
+                </select>
+            </div>
+
+            
+
+            <button type="submit">Générer la réponse</button>
+        </form>
+
+        <div id="priceCalculation" class="price-calculation">
+            <h2>Calcul du prix</h2>
+            <p>Prix total: <span id="totalPrice">0</span> €</p>
+        </div>
+
+        <div class="response-section">
+            <h2>Réponse générée</h2>
+            <div id="generatedResponse" class="response-preview"></div>
+            <button id="copyButton" class="copy-button">Copier dans le presse-papier</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
