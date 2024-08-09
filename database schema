@@ -1,0 +1,63 @@
+erDiagram
+    CruiseCompany ||--o{ Cruise : operates
+    CruiseType ||--o{ Cruise : categorizes
+    Cruise ||--o{ CruiseCategory : has
+    Cruise ||--o{ CruiseSession : schedules
+    CruiseSession ||--o{ Booking : includes
+    CruiseCategory ||--o{ Booking : reserves
+    Brand {
+        int id PK
+        string name
+        text description
+        string logo
+        string website
+        boolean featured
+    }
+    CruiseCompany {
+        int id PK
+        string name
+        text description
+        string logo
+        string website
+    }
+    CruiseType {
+        int id PK
+        string name
+        text description
+    }
+    Cruise {
+        int id PK
+        string name
+        text description
+        int cruise_type_id FK
+        int company_id FK
+        string image
+        string image_url
+    }
+    CruiseCategory {
+        int id PK
+        int cruise_id FK
+        string name
+        text description
+        decimal price
+    }
+    CruiseSession {
+        int id PK
+        int cruise_id FK
+        date start_date
+        date end_date
+        int capacity
+    }
+    Booking {
+        int id PK
+        int cruise_session_id FK
+        int cruise_category_id FK
+        string first_name
+        string last_name
+        string email
+        string phone
+        int number_of_passengers
+        datetime booking_date
+        decimal total_price
+        string status
+    }

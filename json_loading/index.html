@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>River Cruise Information</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>River Cruise Information</h1>
+    <div id="loading">Loading cruise data...</div>
+    <div id="cruises" class="cruise-grid"></div>
+
+    <script>
+        const jsonFiles = [
+            'RUBY56_goldene-jahreszeit-auf-vier-fluessen.json',
+            'VOYA17_rhone-kurs-mittelmeer.json',
+            'VOYA21_idyllisches-suedfrankreich.json'
+        ];
+
+        async function loadJSON(file) {
+            try {
+                const response = await fetch(file);
+                return await response.json();
+            } catch (error) {
+                console.error(`Error loading ${file}:`, error);
+                return null;
+            }
+        }
+
+        async function loadAllCruiseData() {
+            const cruiseData = await Promise.all(jsonFiles.map(loadJSON));
+            return cruiseData.filter(data => data !== null);
+        }
+
+        function createCruiseCard(cruise) {
+            const card = document.createElement('div');
+            card.className = 'cruise-card';
+            card.innerHTML = `
+                <img src="${cruise.images[0].urls.desktop}" alt="${cruise.title}">
+                <div class="cruise-content">
+                    <h2>${cruise.title}</h2>
+                    <p class="cruise-summary">${cruise.teaser.replace(/<[^>]*>/g, '').substring(0, 100)}...</p>
+                    <button class="expand-btn">Learn More</button>
+                    <div class="cruise-details">
+                        <div class="cruise-detail">
+                            <strong>Tour Number:</strong> ${cruise.tourNumber}
+                        </div>
+                        <div class="cruise-detail">
+                            <strong>Duration:</strong> ${cruise.daysCount} days
+                        </div>
+                        <div class="cruise-detail">
+                            <strong>Country:</strong> ${cruise.countries.map(c => c.name).join(', ')}
+                        </div>
+                        <div class="cruise-detail">
+                            <strong>Type:</strong> ${cruise.type.charAt(0).toUpperCase() + cruise.type.slice(1)}
+                        </div>
+                        <p>${cruise.teaser.replace(/<[^>]*>/g, '')}</p>
+                    </div>
+                </div>
+            `;
+
+            const expandBtn = card.querySelector('.expand-btn');
+            const details = card.querySelector('.cruise-details');
+            expandBtn.addEventListener('click', () => {
+                if (details.style.display === 'none' || details.style.display === '') {
+                    details.style.display = 'block';
+                    expandBtn.textContent = 'Show Less';
+                } else {
+                    details.style.display = 'none';
+                    expandBtn.textContent = 'Learn More';
+                }
+            });
+
+            return card;
+        }
+
+        function displayCruises(cruiseData) {
+            const cruisesContainer = document.getElementById('cruises');
+            cruisesContainer.innerHTML = ''; // Clear any existing content
+
+            cruiseData.forEach(data => {
+                const cruise = data.tour;
+                const card = createCruiseCard(cruise);
+                cruisesContainer.appendChild(card);
+            });
+        }
+
+        async function init() {
+            const cruiseData = await loadAllCruiseData();
+            document.getElementById('loading').style.display = 'none';
+            displayCruises(cruiseData);
+        }
+
+        init();
+    </script>
+</body>
+</html>

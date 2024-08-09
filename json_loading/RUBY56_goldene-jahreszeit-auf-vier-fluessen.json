@@ -1,0 +1,1501 @@
+{
+    "tour": {
+        "id": "651ecc54afa79744050f2281",
+        "type": "ship",
+        "tourNumber": "RUBY56",
+        "title": "Goldene Jahreszeit auf vier Fl\u00fcssen",
+        "subtitle": "",
+        "eyeCatcherText": "",
+        "itinerary": "Goldene Jahreszeit auf vier Fl\u00fcssen",
+        "crsServiceType": "K",
+        "daysCount": 8,
+        "minParticipants": null,
+        "maxParticipants": null,
+        "countries": [
+            {
+                "name": "Deutschland",
+                "countryCode": "DE"
+            }
+        ],
+        "regions": [],
+        "categories": [
+            "Flusskreuzfahrt"
+        ],
+        "highlights": [],
+        "teaser": "<div>\n<p style=\"font-size: 16px; text-align: justify;\"><span style=\"color: #374e81;\"><span class=\"ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak\" dir=\"ltr\"><a href=\"https:\/\/www.viva-cruises.com\/special\"><strong>SOMMER SPECIAL:<\/strong><\/a> <br \/>Auf dem nachfolgenden Termin profitieren Sie von einem kostenfreien Kabinenupgrade oder einem reduzierten Einzelkabinenzuschlag von nur 20%:<br \/><br \/>09.10. - 16.10.2024<br \/><\/span><\/span><\/p>\n<p style=\"font-size: 16px; text-align: justify;\"><span style=\"color: #374e81;\"><br \/>Wer die mit goldenen bis tiefroten Bl\u00e4ttern ges\u00e4umten Flussufer im herbstlichen Sonnenlicht einmal gesehen hat, weiss, welch ein fantastisches Farbenspiel so ein Flussfahrt zu dieser Jahreszeit bieten kann. Auf dieser Kreuzfahrt bestaunen Sie dieses Ph\u00e4nomen gleich auf vier Fl\u00fcssen: dem Neckar, dem Rhein, der Mosel und der Saar. Denn wir legen ab in Stuttgart und fahren den Neckar entlang \u00fcber Lauffen bis nach Heidelberg, wechseln dann auf den Rhein nach Eltville und Koblenz, nehmen Kurs auf die Mosel nach Bernkastel und Trier, um schliesslich auf der Saar \u00fcber Saarburg und Saarlouis unser Ziel in Saarbr\u00fccken zu erreichen. <br \/><br \/>Neben faszinierenden Flusslandschaften hat diese Reise aber vor allem auch kulturell besonders viel zu bieten. Ob die zahlreichen Parks, das Neue Schloss oder die Markthalle in Stuttgart, die altehrw\u00fcrdige Universit\u00e4t in Heidelberg (gegr. im 14. Jh.), der Loreley Felsen in Koblenz oder Trier, die \u00e4lteste Stadt Deutschlands \u2013 unsere Herbstreise auf vier Fl\u00fcssen z\u00e4hlt mit seinen zahlreichen Highlights auf und \u201eneben\u201c dem Wasser zu den abwechslungsreichsten Flusskreuzfahrten in unserem Programm.<br \/><br \/><\/span><\/p>\n<h2>IMMER MIT DABEI: UNSER VIVA ALL-INCLUSIVE<\/h2>\n<\/div>\n<div>\n<ul>\n<li>Vollpension mit Fr\u00fchst\u00fccksbuffet, Mittagessen, Abendessen (mehrg\u00e4ngige Gourmetmen\u00fcs, am Platz serviert) und Snacks bei freier Tischwahl und flexiblen Essenszeiten<\/li>\n<li>ganztags hochwertige, alkoholische und nicht alkoholische Getr\u00e4nke aus der gesamten <span style=\"color: #374e81;\"><strong><a style=\"color: #374e81;\" href=\"https:\/\/cdn.viva-cruises.com\/976cf5b5-a63c-4cb8-a83c-c79829a95a22\/viva-barmenu-2024-de.pdf\" target=\"_blank\" rel=\"noopener\">Barkarte<\/a><\/strong><\/span>\u00a0(u.a. Softdrinks, S\u00e4fte, vielf\u00e4ltige Kaffeespezialit\u00e4ten, Tee, Kakao, Sekt, Aperol, Weisswein, Rotwein, Ros\u00e9, Champagner, verschiedene Biere, Longdrinks, Cocktails, Spirituosen, Lik\u00f6re)<\/li>\n<li>High Tea: einmalig pro Reise eine Auswahl an s\u00fcssen und herzhaften Leckereien wie beispielsweise Scones, Sandwiches, Cupcakes, Pralinen, Macarons und diversen Teesorten<\/li>\n<li>t\u00e4glich frisch gef\u00fcllte Mini-Bar auf der Kabine<\/li>\n<li>Begr\u00fcssungssekt auf der Kabine<\/li>\n<li>wiederverwendbare VIVA Wasserflasche<\/li>\n<li>WLAN und Trinkgelder<\/li>\n<\/ul>\n<\/div>",
+        "days": [
+            {
+                "duration": 1,
+                "interval": "1",
+                "title": "Stuttgart",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "2",
+                "title": "Stuttgart",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "3",
+                "title": "Heidelberg",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "4",
+                "title": "Eltville",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "5",
+                "title": "Bernkastel",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "6",
+                "title": "Trier",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "7",
+                "title": "Saarburg",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            },
+            {
+                "duration": 1,
+                "interval": "8",
+                "title": "Saarbr\u00fccken",
+                "subtitle": "",
+                "shortDescription": "",
+                "description": "",
+                "altitudeUp": null,
+                "altitudeDown": null,
+                "walkTimeFrom": null,
+                "walkTimeTo": null,
+                "walkDistance": null,
+                "travelTime": null,
+                "travelDistance": null,
+                "travelType": null,
+                "accommodation": null,
+                "images": []
+            }
+        ],
+        "journeys": [
+            {
+                "id": "651ee49a3296cc22a30efcb7",
+                "startDate": "2024-10-09",
+                "endDate": "2024-10-16",
+                "duration": 8,
+                "description": null,
+                "journeyNumber": "24RUB1009-1016",
+                "cheapestOptionPrice": {
+                    "amount": 169500,
+                    "currency": "EUR",
+                    "currencies": []
+                },
+                "occupancyChoices": [
+                    {
+                        "price": {
+                            "amount": 169500,
+                            "currency": "EUR"
+                        },
+                        "participantPrices": [
+                            {
+                                "amount": 169500,
+                                "currency": "EUR",
+                                "includedCharges": []
+                            },
+                            {
+                                "amount": 169500,
+                                "currency": "EUR",
+                                "includedCharges": []
+                            }
+                        ],
+                        "bookable": true,
+                        "requestable": true,
+                        "free": null,
+                        "freeRooms": 13,
+                        "roomLabel": "VIVA All-Inclusive",
+                        "occupancyType": {
+                            "crs": "2BS",
+                            "identifier": "2BS",
+                            "min": 1,
+                            "max": 3,
+                            "minAdults": 1,
+                            "maxAdults": 2,
+                            "label": ""
+                        },
+                        "includedServices": [],
+                        "fare": {
+                            "crs": "V",
+                            "identifier": "V",
+                            "label": "VIVA All-Inclusive"
+                        },
+                        "freeCabins": [
+                            {
+                                "id": "650b5cb904c73e431f0751fb",
+                                "cabineNumber": 116,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751fe",
+                                "cabineNumber": 119,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751ed",
+                                "cabineNumber": 102,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f1",
+                                "cabineNumber": 106,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f7",
+                                "cabineNumber": 112,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f9",
+                                "cabineNumber": 114,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751fd",
+                                "cabineNumber": 118,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f0",
+                                "cabineNumber": 105,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f2",
+                                "cabineNumber": 107,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f6",
+                                "cabineNumber": 111,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751f8",
+                                "cabineNumber": 113,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751fa",
+                                "cabineNumber": 115,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            },
+                            {
+                                "id": "650b5cb904c73e431f0751fc",
+                                "cabineNumber": 117,
+                                "cabineCategory": null,
+                                "deck": {
+                                    "de": "Smaragd",
+                                    "en": "Emerald",
+                                    "nl": "Smaragd"
+                                }
+                            }
+                        ],
+                        "singlePrice": {
+                            "amount": 294930,
+                            "currency": "EUR"
+                        }
+                    }
+                ],
+                "requiredArrival": null,
+                "requiredDeparture": null,
+                "promotions": [],
+                "additionalServices": [
+                    {
+                        "id": "651ecb59f5b736936d0c8ed8",
+                        "title": "Trier: Auf den Spuren der R\u00f6mer",
+                        "teasers": [],
+                        "description": "<div style=\"font-size: 16px; text-align: justify;\"><span style=\"color: #425b76;\">Das R\u00f6mische Reich \u2013 untergegangen? Die Antike \u2013 lange vorbei? Mag sein. Aber in Trier trifft man sie dennoch: waschechte R\u00f6merinnen und R\u00f6mer, die die Stadt noch als Augusta Treverorum kennengelernt haben, die bei der Regierungszeit Konstantins und der Entstehung seiner imperialen Gro\u00dfbauprojekte wie Dom, Basilika und Kaiserthermen dabei waren. Einige von ihnen hatten Verbindungen zum Kaiserhaus, andere arbeiteten als einfache r\u00f6mische B\u00fcrger in der Stadt der St\u00e4dte. Und niemand k\u00f6nnte den Stolz und den Glanz der damaligen Zeit besser beschreiben, enthusiastischer feiern und authentischer vor dem inneren Auge auferstehen lassen als sie. Folgen Sie unseren r\u00f6mischen Stadtf\u00fchrern auf ihrem Weg durch die Stadt. Lassen Sie sich die Basilika und weitere Bauwerke auch von innen erkl\u00e4ren. Und lassen Sie sich von antiken Augenzeugen berichten, wie viel Rom noch heute in unserem Alltag steckt.<\/span><\/div>\n<div style=\"font-size: 14px; text-align: justify;\">&nbsp;<\/div>",
+                        "price": {
+                            "amount": 4800,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": "TRIROM"
+                    },
+                    {
+                        "id": "651ecb3af5b736936d0c8e78",
+                        "title": "Bernkastel-Kues: Weintour mit dem VW-Bulli",
+                        "teasers": [],
+                        "description": "<div style=\"text-align: justify;\"><span style=\"color: #374e81;\">Eine Fahrt mit besonderem Charme! Entdecken Sie die wunderbaren Weine der Mosel und lassen Sie sich in einem liebevoll restaurierten VW-Bulli druch das Rebenmeer chauffieren! W\u00e4hrend der Tour durch die sonnenverw\u00f6hnten H\u00e4nge tauchen Sie in die Kulturlandschaft der Mosel ein und erfahren von Ihrem kundigen Fahrer alles \u00fcber die angebauten Sorten.<\/span><\/div>",
+                        "price": {
+                            "amount": 7000,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": "BERBUL"
+                    },
+                    {
+                        "id": "65d89d3204b0d9340e089534",
+                        "title": "Koblenz: Stadtrundgang bei Nacht",
+                        "teasers": [],
+                        "description": "<div style=\"text-align: justify;\">\n<p>Sie tauchen ein in das preussische Koblenz des Jahres 1870. Die Festung Koblenz und Ehrenbreitstein ist wegen des Deutsch-Franz\u00f6sischen Krieges im Belagerungszustand. Besondere Vorsicht ist geboten, bei Milit\u00e4r, Polizei und den zehn Nachtw\u00e4chtern, die jede Nacht patrouillieren und so f\u00fcr die Sicherheit der B\u00fcrger sorgen.<\/p>\n<\/div>",
+                        "price": {
+                            "amount": 2000,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": null
+                    },
+                    {
+                        "id": "656896360d338e58a60d3374",
+                        "title": "Eltville: Stadtrundgang",
+                        "teasers": [],
+                        "description": "<div style=\"text-align: justify;\">\n<p style=\"text-align: justify;\">Wenn Sie mehr \u00fcber die Eltviller Stadtgeschichte und die Rosen erfahren wollen, begleiten Sie uns durch die Altstadt von Eltville zu den Rosenanlagen am Rheinufer. Schon Ende des 19. Jahrhunderts machte Eltville als Rosenstadt von sich reden. Rosen aus Eltville wurden fr\u00fcher von der Firma Carl Schmitt bis nach St. Petersburg geliefert. Viele tausend wuchsen damals auf gro\u00dfen Rosenfeldern vor den Stadtmauern und Rosenz\u00fcchter lieferten ihre Rosenreiser bis an den Zarenhof nach St. Petersburg. Damals schon bezeichnete man die Stadt als Rosenstadt. Heute bl\u00fchen im Rosengarten der Kurf\u00fcrstlichen Burg und den \u00f6ffentlichen Anlagen 22.000 Rosenst\u00f6cke in 350 verschiedenen Sorten, darunter viele Rarit\u00e4ten und alte Rosen mit ihrer verschwenderischen Bl\u00fctenpracht.<\/p>\n<\/div>",
+                        "price": {
+                            "amount": 2500,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": null
+                    },
+                    {
+                        "id": "65d88d3b93dd2eaf0405f507",
+                        "title": "Heidelberg: Stadtrundgang mit Schloss und Weinkeller",
+                        "teasers": [],
+                        "description": "<div style=\"text-align: justify;\">N\u00e4here Informationen zu diesem Ausflug folgen demn\u00e4chst.<\/div>",
+                        "price": {
+                            "amount": 4200,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": null
+                    },
+                    {
+                        "id": "65d87561c30163a3c408956c",
+                        "title": "Saarlouis: Auf den Spuren des Sonnenk\u00f6nigs",
+                        "teasers": [],
+                        "description": "<div style=\"text-align: justify;\">N\u00e4here Informationen zu diesem Ausflug folgen demn\u00e4chst.<\/div>",
+                        "price": {
+                            "amount": 1500,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": null
+                    },
+                    {
+                        "id": "65d89f37ed30b4dd020b4e73",
+                        "title": "Lauffen am Neckar: Mit dem Kremser durch Lauffen und in den Weinberg",
+                        "teasers": [],
+                        "description": "<p style=\"text-align: justify;\">N\u00e4here Informationen zu diesem Ausflug folgen demn\u00e4chst.<\/p>",
+                        "price": {
+                            "amount": 4500,
+                            "currency": "EUR"
+                        },
+                        "required": false,
+                        "byParticipant": true,
+                        "category": null,
+                        "crsServiceType": "S",
+                        "crs": "LAUHUW"
+                    }
+                ],
+                "outboundFlights": [],
+                "inboundFlights": [],
+                "shipTimetable": [
+                    {
+                        "date": "2024-10-09",
+                        "dockingTime": null,
+                        "undockingTime": null,
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7e2337a1e4b180b1a8a",
+                            "title": "Stuttgart",
+                            "description": "<p style=\"text-align: justify;\">Willkommen in der Landeshauptstadt von Baden-W\u00fcrttemberg \u2013 in Stuttgart. Neben einer besonderen Kulturdichte, tollen Landschaften und viel Wein gibt es in Stuttgart jede Menge Freizeitaktivit\u00e4ten und Sehensw\u00fcrdigkeiten. Das Bild zeigt das neue Schloss und erinnert an das Schloss Versailles in Frankreich, welches eins sogar als Inspiration f\u00fcr das eindrucksvolle Bauwerk in Stuttgart diente. Weitere Orte, die sich f\u00fcr einen Besuch lohnen, sind der Fernsehturm, das Museum StadtPalais oder das gr\u00f6sste Mehrspartenhaus Europas \u2013 die Staatstheaer Stuttgart \u2013 ein Drei-Sparten-Haus mit Schauspiel, Oper und Ballett.<\/p>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Stuttgart",
+                                    "size": 240223,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-10",
+                        "dockingTime": null,
+                        "undockingTime": "05:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7e2337a1e4b180b1a8a",
+                            "title": "Stuttgart",
+                            "description": "<p style=\"text-align: justify;\">Willkommen in der Landeshauptstadt von Baden-W\u00fcrttemberg \u2013 in Stuttgart. Neben einer besonderen Kulturdichte, tollen Landschaften und viel Wein gibt es in Stuttgart jede Menge Freizeitaktivit\u00e4ten und Sehensw\u00fcrdigkeiten. Das Bild zeigt das neue Schloss und erinnert an das Schloss Versailles in Frankreich, welches eins sogar als Inspiration f\u00fcr das eindrucksvolle Bauwerk in Stuttgart diente. Weitere Orte, die sich f\u00fcr einen Besuch lohnen, sind der Fernsehturm, das Museum StadtPalais oder das gr\u00f6sste Mehrspartenhaus Europas \u2013 die Staatstheaer Stuttgart \u2013 ein Drei-Sparten-Haus mit Schauspiel, Oper und Ballett.<\/p>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Stuttgart",
+                                    "size": 240223,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-10",
+                        "dockingTime": "08:30",
+                        "undockingTime": "09:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7e6337a1e4b180b1a90",
+                            "title": "Ludwigsburg",
+                            "description": "<p style=\"text-align: justify;\">Ludwigsburg liegt n\u00f6rdlich von Stuttgart und begeistert j\u00e4hrlich viele Menschen mit italienischer Atmosph\u00e4re auf dem Marktplatz, idyllischer Stimmung am Seeschloss Monrepos oder imposanter Aura vor dem Residenzschloss. Vor allem die ganz\u00e4hrige Gartenschau unter dem Motto des bl\u00fchenden Barocks ist wahrhaftig ein traumhafter Anblick.<\/p>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Ludwigsburg",
+                                    "size": 752781,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-10",
+                        "dockingTime": "13:30",
+                        "undockingTime": "19:30",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7e9337a1e4b180b1a96",
+                            "title": "Lauffen am Neckar",
+                            "description": "<div style=\"text-align: justify;\">Lauffen am Neckar ist als H\u00f6lderlin- und Weinstadt bekannt und bietet Ihnen zahlreiche interessante Sehensw\u00fcrdigkeiten. Als eine Weinstadt dreht sich hier nat\u00fcrlich alles um den Wein. Daher finden in der Stadt regelm\u00e4ssig Weinfeste statt und auch ein Picknick im Weinberg ist ein Erlebnis, das Sie sich nicht entgehen lassen sollten. Eine Planwagenfahrt mit dem Katzenbeisser Trolli ist ein Erlebnis, das wir Ihnen ebenso empfehlen k\u00f6nnen. In gem\u00fctlicher und geselliger Runde geniessen Sie dabei den Blick auf die herrlichen Weinberge. Ebenso sollten Sie in Lauffen am Neckar einen historischen Stadtrundgang nicht vers\u00e4umen. W\u00e4hrend diesem lernen Sie die bekanntesten Sehensw\u00fcrdigkeiten der Stadt wie die Alte \u00d6lm\u00fchle, Kloster und Klosterhof, die Martinskirche, H\u00f6lderlinhaus und H\u00f6lderlindenkmal kennen. Der bekannte Dichter wurde im Jahr 1770 in der Stadt am Neckar geboren und noch heute erinnert vieles an den bekanntesten Sohn der Stadt.&nbsp;<\/div><br><br>",
+                            "images": [
+                                {
+                                    "title": "Lauffen am Neckar",
+                                    "size": 334724,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-11",
+                        "dockingTime": "12:00",
+                        "undockingTime": "19:30",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7dc337a1e4b180b1a7e",
+                            "title": "Heidelberg",
+                            "description": "<div style=\"text-align: justify;\">Schon von weitem sieht man das bekannteste Wahrzeichen der Stadt - das Heidelberger Schloss, das am Hang des K\u00f6nigstuhls thront. Dort oben hat man einen fantastischen Blick \u00fcber die Stadt und das Neckartal. Von der Altstadt aus ist die Schlossruine gut zu Fuss oder mit der Bergbahn erreichbar. Die romantische Altstadt l\u00e4dt ausserdem zum Bummeln und Schlemmern ein. Viele kleine Gesch\u00e4fte, Caf\u00e9s und Restaurants warten hier auf die Besucher. Auch die gotische Heiliggeistkirche auf dem Marktplatz und die historische Alte Br\u00fccke am Neckar sind einen Besuch wert. In Heidelberg befindet sich zudem die \u00e4lteste Universit\u00e4t Deutschlands. Ein beliebter Aussichtspunkt ist der Heiligenberg, der eine alte Thingst\u00e4tte und die Klosterruine St. Michael beherbergt.<\/div><br><br>",
+                            "images": [
+                                {
+                                    "title": "Heidelberg",
+                                    "size": 982047,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-12",
+                        "dockingTime": "06:00",
+                        "undockingTime": "12:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7d8337a1e4b180b1a78",
+                            "title": "Eltville",
+                            "description": "<div style=\"text-align: justify;\">Eltville in Hessen ist ein gem\u00fctliches St\u00e4dtchen am Nordufer des Rheins, zwischen Mainz und Bingen. Die Altstadt gruppiert sich um die kurf\u00fcrstliche Burg Eltville, die fast direkt am Ufer des Rheins steht. Die Burg geht auf das 13. Jahrhundert zur\u00fcck und wurde 1635 w\u00e4hrend des Dreissigj\u00e4hrigen Krieges zerst\u00f6rt; lediglich der Wohnturm wurde wieder aufgebaut und blieb bis heute erhalten. Heute sind darin ein Museum zur Stadt- und Regionalgeschichte von Eltville sowie die Touristeninformation untergebracht.<\/div>\n<div style=\"text-align: justify;\">\u00a0<\/div>\n<div style=\"text-align: justify;\">Neben der Burg befindet sich der kleine Rosengarten, der vor allem im Sommer eine der beliebtesten Attraktionen der Stadt ist. Neben der Burg, rund um die Pfarrkirche Sankt Peter und Paul, gruppiert sich die kleine Altstadt von Eltville, die allerdings nur aus wenigen Gassen besteht. Ihr Zentrum ist der charmante Marktplatz. Viele der H\u00e4user hier sind in der f\u00fcr Hessen typischen Fachwerkbauweise errichtet, darunter das alte Rathaus aus dem Jahr 1535. Zum Rhein hin \u00f6ffnet sich die Altstadt mit einer sch\u00f6nen Promenade.<\/div>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Eltville",
+                                    "size": 503003,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-12",
+                        "dockingTime": "16:45",
+                        "undockingTime": "22:45",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec499337a1e4b180b1394",
+                            "title": "Koblenz",
+                            "description": "<div style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Koblenz besticht bereits durch seine einzigartige Lage am Zusammenfluss von Rhein und Mosel. Erster Anlaufpunkt bei einem Besuch der Stadt sollte deshalb auch das sogenannte \u201eDeutsche Eck\u201c mit seinem imposanten Kaiser-Wilhelm-Denkmal sein. Seit 2002 ist es Teil des UNESCO-Welterbes \u201eOberes Mittelrheintal\u201c. Ein wundersch\u00f6ner Blick auf Koblenz und seine beiden Fl\u00fcsse er\u00f6ffnet sich bei einem Besuch der Festung Ehrenbreitstein. Die 120 Meter \u00fcber dem Rhein thronende Befestigungsanlage aus dem 16. Jahrhundert ist die zweitgr\u00f6\u00dfte noch erhaltene Festung Europas. Spektakul\u00e4r ist bereits der Aufstieg in einer Gondel der Seilbahn.<\/span><\/div><br><br>",
+                            "images": [
+                                {
+                                    "title": "Koblenz",
+                                    "size": 300116,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-13",
+                        "dockingTime": "16:00",
+                        "undockingTime": "22:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec527337a1e4b180b148e",
+                            "title": "Bernkastel",
+                            "description": "Zahlreiche Fachwerkh\u00e4user zieren die Stadt Bernkastel direkt an der Mosel. Oberhalb befindet sich eine Burg mit Restaurant und in der Altstadt findet man zahlreiche kleine Boutiquen und L\u00e4den. Die Mosel l\u00e4dt zu einer unvergesslichen Schifffahrt ein, doch auch zum Kajak oder Kanu fahren. Bernkastel ist durch seine ideale Lage an der Mosel bekannt und durch die urige Altstadt. Sie bildet zusammen mit Kues eine Doppelstadt, links und rechts der Ufer der Mosel, mit zahlreichen Restaurants und Bars.<br><br>",
+                            "images": [
+                                {
+                                    "title": "Bernkastel",
+                                    "size": 265046,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-14",
+                        "dockingTime": "04:30",
+                        "undockingTime": "12:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec48d337a1e4b180b137c",
+                            "title": "Trier",
+                            "description": "Trier beeindruckt durch seine Bauten aus der R\u00f6merzeit \u2013 allen voran die gut erhaltene Porta Nigra. Aber auch die Kirchen der Stadt sind lohnende Ziele bei einem Besuch. Die \u00e4lteste Stadt Deutschlands wurde um das Jahr 16 v. Chr. unter Kaiser Augustus von den R\u00f6mern gegr\u00fcndet. Karl der Grosse machte die Stadt zum Erzbistum. In kaum einer anderen deutschen Stadt sind die Hinterlassenschaften der R\u00f6mer so zahlreich vorhanden wie in Trier. In Form von Wein kann man sie sogar trinken. Die Weinterrassen an den T\u00e4lern von Mosel und Saar blicken auf eine 2000-j\u00e4hrige Geschichte zur\u00fcck.<br><br>",
+                            "images": [
+                                {
+                                    "title": "Trier",
+                                    "size": 271966,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-14",
+                        "dockingTime": "16:00",
+                        "undockingTime": null,
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7c9337a1e4b180b1a5a",
+                            "title": "Saarburg",
+                            "description": "<div style=\"text-align: justify;\">Die liebenswerte Kleinstadt Saarburg liegt mitten im Naturpark Saar-Hunsr\u00fcck am Ufer der Saar. Ein Spaziergang zur gleichnamigen Burg \u00fcber der Stadt ist lohnenswert, denn von hier geniessen Sie eine wunderbare Aussicht. Sie ist eine der \u00e4ltesten H\u00f6henburgen in Deutschlands S\u00fcdwesten und wurde erstmals 964 n. Chr. erw\u00e4hnt. In der mittelalterlichen Stadtbefestigung von Saarburg befanden sich mehrere Wehrt\u00fcrme. Der noch erhaltene Kautenturm am Saarufer war nicht nur Zugang zur Stadt, sondern auch Zollturm. Das Rathaus am Buttermarkt wurde nach seiner Zerst\u00f6rung 1906 wieder vollst\u00e4ndig aufgebaut. Der Ortskern, \u201eStaden\u201c genannt, ist besonders romantisch, denn hier verlaufen viele kleine B\u00e4che, die von jahrhundertealten Br\u00fccken \u00fcberspannt werden. Am Leuckbach stehen die historischen H\u00e4user noch auf massiven Eichenpf\u00e4hlen. Der Ausblick von der Br\u00fccke \u201eAuf dem Graben\u201c ist einzigartig \u2013 kein Wunder, dass der Ort den Beinamen Klein-Venedig tr\u00e4gt. Besuchen Sie auch die einstige Glockengiesserei, die heute ein Museum ist. Bis 2002 wurden hier noch Glocken gegossen.<\/div>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Saarburg",
+                                    "size": 535305,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-15",
+                        "dockingTime": null,
+                        "undockingTime": "07:00",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7c9337a1e4b180b1a5a",
+                            "title": "Saarburg",
+                            "description": "<div style=\"text-align: justify;\">Die liebenswerte Kleinstadt Saarburg liegt mitten im Naturpark Saar-Hunsr\u00fcck am Ufer der Saar. Ein Spaziergang zur gleichnamigen Burg \u00fcber der Stadt ist lohnenswert, denn von hier geniessen Sie eine wunderbare Aussicht. Sie ist eine der \u00e4ltesten H\u00f6henburgen in Deutschlands S\u00fcdwesten und wurde erstmals 964 n. Chr. erw\u00e4hnt. In der mittelalterlichen Stadtbefestigung von Saarburg befanden sich mehrere Wehrt\u00fcrme. Der noch erhaltene Kautenturm am Saarufer war nicht nur Zugang zur Stadt, sondern auch Zollturm. Das Rathaus am Buttermarkt wurde nach seiner Zerst\u00f6rung 1906 wieder vollst\u00e4ndig aufgebaut. Der Ortskern, \u201eStaden\u201c genannt, ist besonders romantisch, denn hier verlaufen viele kleine B\u00e4che, die von jahrhundertealten Br\u00fccken \u00fcberspannt werden. Am Leuckbach stehen die historischen H\u00e4user noch auf massiven Eichenpf\u00e4hlen. Der Ausblick von der Br\u00fccke \u201eAuf dem Graben\u201c ist einzigartig \u2013 kein Wunder, dass der Ort den Beinamen Klein-Venedig tr\u00e4gt. Besuchen Sie auch die einstige Glockengiesserei, die heute ein Museum ist. Bis 2002 wurden hier noch Glocken gegossen.<\/div>\n<p><br \/><br \/><\/p>",
+                            "images": [
+                                {
+                                    "title": "Saarburg",
+                                    "size": 535305,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-15",
+                        "dockingTime": "13:30",
+                        "undockingTime": "19:30",
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7d0337a1e4b180b1a66",
+                            "title": "Saarlouis",
+                            "description": "<div style=\"text-align: justify;\">Ganz im S\u00fcdwesten Deutschlands, wo gr\u00fcne W\u00e4lder das sanft gewellte Land bedecken, liegt Saarlouis nahe der franz\u00f6sischen Grenze. Die einstige Festungsstadt ist am Exerzierplatz noch zu erkennen, wo das m\u00e4chtige Kommandantur-Geb\u00e4ude von vergangenen Zeiten erz\u00e4hlt. Heute trifft man sich am Grossen Markt zum Bummel durch die Altstadt. Nachmittags locken gem\u00fctliche Caf\u00e8s, abends ein guter Wein in den zahlreichen Kneipen zwischen den alten Fassaden aus der Festungszeit oder aus der Gr\u00fcnderzeit. Gr\u00fcn ist es dagegen am Saar-Altarm, wo die Vauban-Insel und der Stadtgarten liegen: Dort, wo einst Ludwig XIV einen der sch\u00f6nsten Orte im K\u00f6nigreich vermutete, erholen sich auch heute noch G\u00e4ste und Einwohner gern.<\/div><br><br>",
+                            "images": [
+                                {
+                                    "title": "Saarlouis",
+                                    "size": 376487,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    },
+                    {
+                        "date": "2024-10-16",
+                        "dockingTime": "01:30",
+                        "undockingTime": null,
+                        "berth": null,
+                        "harbour": {
+                            "id": "651ec7d2337a1e4b180b1a6c",
+                            "title": "Saarbr\u00fccken",
+                            "description": "<div style=\"text-align: justify;\">Saarbr\u00fccken ist die Hauptstadt des Saarlandes. Die Stadt bietet seinen rund 180.000 Einwohnern mehrere Hochschulen. Nicht nur die zahlreichen Touristen freuen sich \u00fcber das Schloss, dessen Urspr\u00fcnge um das Jahr 1.000 liegen. Zu dem Schlossensemble geh\u00f6rt auch das denkmalgesch\u00fctzte Alte Rathaus. Weiterhin stehen mehrere Kirchen der unterschiedlichsten Epochen zur Besichtigung bereit. Die \u00e4lteste ist die Deutschherrenkapelle aus dem 13. Jahrhundert. Zu den modernen Kirchen geh\u00f6rt beispielsweise die Pfarrkirche Maria K\u00f6nigin, die in den F\u00fcnfzigerjahren des letzten Jahrhunderts gebaut wurde. Unter den weiteren Sehensw\u00fcrdigkeiten sticht der Deutsch-Franz\u00f6sische Garten hervor, in dem sich eine Parkeisenbahn, eine Seilbahn sowie ein Ehrenfriedhof befinden. Ausserdem verf\u00fcgt die Stadt \u00fcber Zoo und Wildpark. Anziehend sind nicht zuletzt die vielen Veranstaltungen in Saarbr\u00fccken, die das ganze Jahr \u00fcber stattfinden. Sie reichen vom Filmevent \u00fcber Volksfeste bis zum Weihnachtsmarkt am Schloss.<\/div><br><br>",
+                            "images": [
+                                {
+                                    "title": "Saarbr\u00fccken",
+                                    "size": 466239,
+                                    "author": null,
+                                    "urls": {
+                                        "raw": "https:\/\/cdn.viva-cruises.com\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg"
+                                    }
+                                }
+                            ]
+                        },
+                        "tender": false
+                    }
+                ],
+                "combinedShipTimetable": [
+                    {
+                        "duration": 1,
+                        "interval": "1",
+                        "title": "Stuttgart",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-09",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-09",
+                                "dockingTime": null,
+                                "undockingTime": null,
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7e2337a1e4b180b1a8a",
+                                    "title": "Stuttgart",
+                                    "description": "<p style=\"text-align: justify;\">Willkommen in der Landeshauptstadt von Baden-W\u00fcrttemberg \u2013 in Stuttgart. Neben einer besonderen Kulturdichte, tollen Landschaften und viel Wein gibt es in Stuttgart jede Menge Freizeitaktivit\u00e4ten und Sehensw\u00fcrdigkeiten. Das Bild zeigt das neue Schloss und erinnert an das Schloss Versailles in Frankreich, welches eins sogar als Inspiration f\u00fcr das eindrucksvolle Bauwerk in Stuttgart diente. Weitere Orte, die sich f\u00fcr einen Besuch lohnen, sind der Fernsehturm, das Museum StadtPalais oder das gr\u00f6sste Mehrspartenhaus Europas \u2013 die Staatstheaer Stuttgart \u2013 ein Drei-Sparten-Haus mit Schauspiel, Oper und Ballett.<\/p>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Stuttgart",
+                                            "size": 240223,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "2",
+                        "title": "Stuttgart",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-10",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-10",
+                                "dockingTime": null,
+                                "undockingTime": "05:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7e2337a1e4b180b1a8a",
+                                    "title": "Stuttgart",
+                                    "description": "<p style=\"text-align: justify;\">Willkommen in der Landeshauptstadt von Baden-W\u00fcrttemberg \u2013 in Stuttgart. Neben einer besonderen Kulturdichte, tollen Landschaften und viel Wein gibt es in Stuttgart jede Menge Freizeitaktivit\u00e4ten und Sehensw\u00fcrdigkeiten. Das Bild zeigt das neue Schloss und erinnert an das Schloss Versailles in Frankreich, welches eins sogar als Inspiration f\u00fcr das eindrucksvolle Bauwerk in Stuttgart diente. Weitere Orte, die sich f\u00fcr einen Besuch lohnen, sind der Fernsehturm, das Museum StadtPalais oder das gr\u00f6sste Mehrspartenhaus Europas \u2013 die Staatstheaer Stuttgart \u2013 ein Drei-Sparten-Haus mit Schauspiel, Oper und Ballett.<\/p>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Stuttgart",
+                                            "size": 240223,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/bd4a7bff-07ca-45ab-9688-fbecc07f0448\/stuttgart.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            },
+                            {
+                                "date": "2024-10-10",
+                                "dockingTime": "08:30",
+                                "undockingTime": "09:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7e6337a1e4b180b1a90",
+                                    "title": "Ludwigsburg",
+                                    "description": "<p style=\"text-align: justify;\">Ludwigsburg liegt n\u00f6rdlich von Stuttgart und begeistert j\u00e4hrlich viele Menschen mit italienischer Atmosph\u00e4re auf dem Marktplatz, idyllischer Stimmung am Seeschloss Monrepos oder imposanter Aura vor dem Residenzschloss. Vor allem die ganz\u00e4hrige Gartenschau unter dem Motto des bl\u00fchenden Barocks ist wahrhaftig ein traumhafter Anblick.<\/p>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Ludwigsburg",
+                                            "size": 752781,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/4b9f6314-c066-4c22-bfef-fcfcda7fa2dd\/ludwigsburg.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            },
+                            {
+                                "date": "2024-10-10",
+                                "dockingTime": "13:30",
+                                "undockingTime": "19:30",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7e9337a1e4b180b1a96",
+                                    "title": "Lauffen am Neckar",
+                                    "description": "<div style=\"text-align: justify;\">Lauffen am Neckar ist als H\u00f6lderlin- und Weinstadt bekannt und bietet Ihnen zahlreiche interessante Sehensw\u00fcrdigkeiten. Als eine Weinstadt dreht sich hier nat\u00fcrlich alles um den Wein. Daher finden in der Stadt regelm\u00e4ssig Weinfeste statt und auch ein Picknick im Weinberg ist ein Erlebnis, das Sie sich nicht entgehen lassen sollten. Eine Planwagenfahrt mit dem Katzenbeisser Trolli ist ein Erlebnis, das wir Ihnen ebenso empfehlen k\u00f6nnen. In gem\u00fctlicher und geselliger Runde geniessen Sie dabei den Blick auf die herrlichen Weinberge. Ebenso sollten Sie in Lauffen am Neckar einen historischen Stadtrundgang nicht vers\u00e4umen. W\u00e4hrend diesem lernen Sie die bekanntesten Sehensw\u00fcrdigkeiten der Stadt wie die Alte \u00d6lm\u00fchle, Kloster und Klosterhof, die Martinskirche, H\u00f6lderlinhaus und H\u00f6lderlindenkmal kennen. Der bekannte Dichter wurde im Jahr 1770 in der Stadt am Neckar geboren und noch heute erinnert vieles an den bekanntesten Sohn der Stadt.&nbsp;<\/div><br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Lauffen am Neckar",
+                                            "size": 334724,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/8ae39eec-e0e2-4e3b-8dd8-dadeec43d656\/lauffen-am-neckar.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "3",
+                        "title": "Heidelberg",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-11",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-11",
+                                "dockingTime": "12:00",
+                                "undockingTime": "19:30",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7dc337a1e4b180b1a7e",
+                                    "title": "Heidelberg",
+                                    "description": "<div style=\"text-align: justify;\">Schon von weitem sieht man das bekannteste Wahrzeichen der Stadt - das Heidelberger Schloss, das am Hang des K\u00f6nigstuhls thront. Dort oben hat man einen fantastischen Blick \u00fcber die Stadt und das Neckartal. Von der Altstadt aus ist die Schlossruine gut zu Fuss oder mit der Bergbahn erreichbar. Die romantische Altstadt l\u00e4dt ausserdem zum Bummeln und Schlemmern ein. Viele kleine Gesch\u00e4fte, Caf\u00e9s und Restaurants warten hier auf die Besucher. Auch die gotische Heiliggeistkirche auf dem Marktplatz und die historische Alte Br\u00fccke am Neckar sind einen Besuch wert. In Heidelberg befindet sich zudem die \u00e4lteste Universit\u00e4t Deutschlands. Ein beliebter Aussichtspunkt ist der Heiligenberg, der eine alte Thingst\u00e4tte und die Klosterruine St. Michael beherbergt.<\/div><br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Heidelberg",
+                                            "size": 982047,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/8e4d8bf4-55fc-4ae3-9a8e-94569faac1be\/heidelberg.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "4",
+                        "title": "Eltville",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-12",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-12",
+                                "dockingTime": "06:00",
+                                "undockingTime": "12:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7d8337a1e4b180b1a78",
+                                    "title": "Eltville",
+                                    "description": "<div style=\"text-align: justify;\">Eltville in Hessen ist ein gem\u00fctliches St\u00e4dtchen am Nordufer des Rheins, zwischen Mainz und Bingen. Die Altstadt gruppiert sich um die kurf\u00fcrstliche Burg Eltville, die fast direkt am Ufer des Rheins steht. Die Burg geht auf das 13. Jahrhundert zur\u00fcck und wurde 1635 w\u00e4hrend des Dreissigj\u00e4hrigen Krieges zerst\u00f6rt; lediglich der Wohnturm wurde wieder aufgebaut und blieb bis heute erhalten. Heute sind darin ein Museum zur Stadt- und Regionalgeschichte von Eltville sowie die Touristeninformation untergebracht.<\/div>\n<div style=\"text-align: justify;\">\u00a0<\/div>\n<div style=\"text-align: justify;\">Neben der Burg befindet sich der kleine Rosengarten, der vor allem im Sommer eine der beliebtesten Attraktionen der Stadt ist. Neben der Burg, rund um die Pfarrkirche Sankt Peter und Paul, gruppiert sich die kleine Altstadt von Eltville, die allerdings nur aus wenigen Gassen besteht. Ihr Zentrum ist der charmante Marktplatz. Viele der H\u00e4user hier sind in der f\u00fcr Hessen typischen Fachwerkbauweise errichtet, darunter das alte Rathaus aus dem Jahr 1535. Zum Rhein hin \u00f6ffnet sich die Altstadt mit einer sch\u00f6nen Promenade.<\/div>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Eltville",
+                                            "size": 503003,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/b94c15e4-a1b0-4520-aa62-59e70c461a07\/eltville.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            },
+                            {
+                                "date": "2024-10-12",
+                                "dockingTime": "16:45",
+                                "undockingTime": "22:45",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec499337a1e4b180b1394",
+                                    "title": "Koblenz",
+                                    "description": "<div style=\"text-align: justify;\"><span style=\"font-size: 14px;\">Koblenz besticht bereits durch seine einzigartige Lage am Zusammenfluss von Rhein und Mosel. Erster Anlaufpunkt bei einem Besuch der Stadt sollte deshalb auch das sogenannte \u201eDeutsche Eck\u201c mit seinem imposanten Kaiser-Wilhelm-Denkmal sein. Seit 2002 ist es Teil des UNESCO-Welterbes \u201eOberes Mittelrheintal\u201c. Ein wundersch\u00f6ner Blick auf Koblenz und seine beiden Fl\u00fcsse er\u00f6ffnet sich bei einem Besuch der Festung Ehrenbreitstein. Die 120 Meter \u00fcber dem Rhein thronende Befestigungsanlage aus dem 16. Jahrhundert ist die zweitgr\u00f6\u00dfte noch erhaltene Festung Europas. Spektakul\u00e4r ist bereits der Aufstieg in einer Gondel der Seilbahn.<\/span><\/div><br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Koblenz",
+                                            "size": 300116,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/6c49975a-c51d-4680-a0fc-b0a070c29290\/koblenz.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "5",
+                        "title": "Bernkastel",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-13",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-13",
+                                "dockingTime": "16:00",
+                                "undockingTime": "22:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec527337a1e4b180b148e",
+                                    "title": "Bernkastel",
+                                    "description": "Zahlreiche Fachwerkh\u00e4user zieren die Stadt Bernkastel direkt an der Mosel. Oberhalb befindet sich eine Burg mit Restaurant und in der Altstadt findet man zahlreiche kleine Boutiquen und L\u00e4den. Die Mosel l\u00e4dt zu einer unvergesslichen Schifffahrt ein, doch auch zum Kajak oder Kanu fahren. Bernkastel ist durch seine ideale Lage an der Mosel bekannt und durch die urige Altstadt. Sie bildet zusammen mit Kues eine Doppelstadt, links und rechts der Ufer der Mosel, mit zahlreichen Restaurants und Bars.<br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Bernkastel",
+                                            "size": 265046,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/cd197c92-3a23-4424-a0bf-a226c8ad7997\/bernkastel.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "6",
+                        "title": "Trier",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-14",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-14",
+                                "dockingTime": "04:30",
+                                "undockingTime": "12:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec48d337a1e4b180b137c",
+                                    "title": "Trier",
+                                    "description": "Trier beeindruckt durch seine Bauten aus der R\u00f6merzeit \u2013 allen voran die gut erhaltene Porta Nigra. Aber auch die Kirchen der Stadt sind lohnende Ziele bei einem Besuch. Die \u00e4lteste Stadt Deutschlands wurde um das Jahr 16 v. Chr. unter Kaiser Augustus von den R\u00f6mern gegr\u00fcndet. Karl der Grosse machte die Stadt zum Erzbistum. In kaum einer anderen deutschen Stadt sind die Hinterlassenschaften der R\u00f6mer so zahlreich vorhanden wie in Trier. In Form von Wein kann man sie sogar trinken. Die Weinterrassen an den T\u00e4lern von Mosel und Saar blicken auf eine 2000-j\u00e4hrige Geschichte zur\u00fcck.<br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Trier",
+                                            "size": 271966,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/778424a6-dc35-4e40-b133-02bbf060ee9b\/trier.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            },
+                            {
+                                "date": "2024-10-14",
+                                "dockingTime": "16:00",
+                                "undockingTime": null,
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7c9337a1e4b180b1a5a",
+                                    "title": "Saarburg",
+                                    "description": "<div style=\"text-align: justify;\">Die liebenswerte Kleinstadt Saarburg liegt mitten im Naturpark Saar-Hunsr\u00fcck am Ufer der Saar. Ein Spaziergang zur gleichnamigen Burg \u00fcber der Stadt ist lohnenswert, denn von hier geniessen Sie eine wunderbare Aussicht. Sie ist eine der \u00e4ltesten H\u00f6henburgen in Deutschlands S\u00fcdwesten und wurde erstmals 964 n. Chr. erw\u00e4hnt. In der mittelalterlichen Stadtbefestigung von Saarburg befanden sich mehrere Wehrt\u00fcrme. Der noch erhaltene Kautenturm am Saarufer war nicht nur Zugang zur Stadt, sondern auch Zollturm. Das Rathaus am Buttermarkt wurde nach seiner Zerst\u00f6rung 1906 wieder vollst\u00e4ndig aufgebaut. Der Ortskern, \u201eStaden\u201c genannt, ist besonders romantisch, denn hier verlaufen viele kleine B\u00e4che, die von jahrhundertealten Br\u00fccken \u00fcberspannt werden. Am Leuckbach stehen die historischen H\u00e4user noch auf massiven Eichenpf\u00e4hlen. Der Ausblick von der Br\u00fccke \u201eAuf dem Graben\u201c ist einzigartig \u2013 kein Wunder, dass der Ort den Beinamen Klein-Venedig tr\u00e4gt. Besuchen Sie auch die einstige Glockengiesserei, die heute ein Museum ist. Bis 2002 wurden hier noch Glocken gegossen.<\/div>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Saarburg",
+                                            "size": 535305,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "7",
+                        "title": "Saarburg",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-15",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-15",
+                                "dockingTime": null,
+                                "undockingTime": "07:00",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7c9337a1e4b180b1a5a",
+                                    "title": "Saarburg",
+                                    "description": "<div style=\"text-align: justify;\">Die liebenswerte Kleinstadt Saarburg liegt mitten im Naturpark Saar-Hunsr\u00fcck am Ufer der Saar. Ein Spaziergang zur gleichnamigen Burg \u00fcber der Stadt ist lohnenswert, denn von hier geniessen Sie eine wunderbare Aussicht. Sie ist eine der \u00e4ltesten H\u00f6henburgen in Deutschlands S\u00fcdwesten und wurde erstmals 964 n. Chr. erw\u00e4hnt. In der mittelalterlichen Stadtbefestigung von Saarburg befanden sich mehrere Wehrt\u00fcrme. Der noch erhaltene Kautenturm am Saarufer war nicht nur Zugang zur Stadt, sondern auch Zollturm. Das Rathaus am Buttermarkt wurde nach seiner Zerst\u00f6rung 1906 wieder vollst\u00e4ndig aufgebaut. Der Ortskern, \u201eStaden\u201c genannt, ist besonders romantisch, denn hier verlaufen viele kleine B\u00e4che, die von jahrhundertealten Br\u00fccken \u00fcberspannt werden. Am Leuckbach stehen die historischen H\u00e4user noch auf massiven Eichenpf\u00e4hlen. Der Ausblick von der Br\u00fccke \u201eAuf dem Graben\u201c ist einzigartig \u2013 kein Wunder, dass der Ort den Beinamen Klein-Venedig tr\u00e4gt. Besuchen Sie auch die einstige Glockengiesserei, die heute ein Museum ist. Bis 2002 wurden hier noch Glocken gegossen.<\/div>\n<p><br \/><br \/><\/p>",
+                                    "images": [
+                                        {
+                                            "title": "Saarburg",
+                                            "size": 535305,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/42969472-6475-424e-b0dd-64f80553d7eb\/saarburg.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            },
+                            {
+                                "date": "2024-10-15",
+                                "dockingTime": "13:30",
+                                "undockingTime": "19:30",
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7d0337a1e4b180b1a66",
+                                    "title": "Saarlouis",
+                                    "description": "<div style=\"text-align: justify;\">Ganz im S\u00fcdwesten Deutschlands, wo gr\u00fcne W\u00e4lder das sanft gewellte Land bedecken, liegt Saarlouis nahe der franz\u00f6sischen Grenze. Die einstige Festungsstadt ist am Exerzierplatz noch zu erkennen, wo das m\u00e4chtige Kommandantur-Geb\u00e4ude von vergangenen Zeiten erz\u00e4hlt. Heute trifft man sich am Grossen Markt zum Bummel durch die Altstadt. Nachmittags locken gem\u00fctliche Caf\u00e8s, abends ein guter Wein in den zahlreichen Kneipen zwischen den alten Fassaden aus der Festungszeit oder aus der Gr\u00fcnderzeit. Gr\u00fcn ist es dagegen am Saar-Altarm, wo die Vauban-Insel und der Stadtgarten liegen: Dort, wo einst Ludwig XIV einen der sch\u00f6nsten Orte im K\u00f6nigreich vermutete, erholen sich auch heute noch G\u00e4ste und Einwohner gern.<\/div><br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Saarlouis",
+                                            "size": 376487,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/a2076087-3da1-48f5-8cea-a8a26c541ea6\/saarlouis.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    },
+                    {
+                        "duration": 1,
+                        "interval": "8",
+                        "title": "Saarbr\u00fccken",
+                        "subtitle": "",
+                        "shortDescription": "",
+                        "description": "",
+                        "altitudeUp": null,
+                        "altitudeDown": null,
+                        "walkTimeFrom": null,
+                        "walkTimeTo": null,
+                        "walkDistance": null,
+                        "travelTime": null,
+                        "travelDistance": null,
+                        "travelType": null,
+                        "accommodation": null,
+                        "images": [],
+                        "date": "2024-10-16",
+                        "shipTimetable": [
+                            {
+                                "date": "2024-10-16",
+                                "dockingTime": "01:30",
+                                "undockingTime": null,
+                                "berth": null,
+                                "harbour": {
+                                    "id": "651ec7d2337a1e4b180b1a6c",
+                                    "title": "Saarbr\u00fccken",
+                                    "description": "<div style=\"text-align: justify;\">Saarbr\u00fccken ist die Hauptstadt des Saarlandes. Die Stadt bietet seinen rund 180.000 Einwohnern mehrere Hochschulen. Nicht nur die zahlreichen Touristen freuen sich \u00fcber das Schloss, dessen Urspr\u00fcnge um das Jahr 1.000 liegen. Zu dem Schlossensemble geh\u00f6rt auch das denkmalgesch\u00fctzte Alte Rathaus. Weiterhin stehen mehrere Kirchen der unterschiedlichsten Epochen zur Besichtigung bereit. Die \u00e4lteste ist die Deutschherrenkapelle aus dem 13. Jahrhundert. Zu den modernen Kirchen geh\u00f6rt beispielsweise die Pfarrkirche Maria K\u00f6nigin, die in den F\u00fcnfzigerjahren des letzten Jahrhunderts gebaut wurde. Unter den weiteren Sehensw\u00fcrdigkeiten sticht der Deutsch-Franz\u00f6sische Garten hervor, in dem sich eine Parkeisenbahn, eine Seilbahn sowie ein Ehrenfriedhof befinden. Ausserdem verf\u00fcgt die Stadt \u00fcber Zoo und Wildpark. Anziehend sind nicht zuletzt die vielen Veranstaltungen in Saarbr\u00fccken, die das ganze Jahr \u00fcber stattfinden. Sie reichen vom Filmevent \u00fcber Volksfeste bis zum Weihnachtsmarkt am Schloss.<\/div><br><br>",
+                                    "images": [
+                                        {
+                                            "title": "Saarbr\u00fccken",
+                                            "size": 466239,
+                                            "author": null,
+                                            "urls": {
+                                                "raw": "https:\/\/cdn.viva-cruises.com\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                                "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                                "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg",
+                                                "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/9cfb9807-0dc4-482f-a16a-06dc698497d2\/saarbruecken.jpeg"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "tender": false
+                            }
+                        ]
+                    }
+                ],
+                "outboundTrains": [
+                    {
+                        "class": "2",
+                        "type": "voucher",
+                        "crs": "HF\/2",
+                        "crsServiceType": "BA",
+                        "price": {
+                            "amount": 7200,
+                            "currency": "EUR"
+                        }
+                    },
+                    {
+                        "class": "1",
+                        "type": "voucher",
+                        "crs": "HF\/1",
+                        "crsServiceType": "BA",
+                        "price": {
+                            "amount": 12350,
+                            "currency": "EUR"
+                        }
+                    }
+                ],
+                "inboundTrains": [
+                    {
+                        "class": "2",
+                        "type": "voucher",
+                        "crs": "RF\/2",
+                        "crsServiceType": "BA",
+                        "price": {
+                            "amount": 7200,
+                            "currency": "EUR"
+                        }
+                    },
+                    {
+                        "class": "1",
+                        "type": "voucher",
+                        "crs": "RF\/1",
+                        "crsServiceType": "BA",
+                        "price": {
+                            "amount": 12350,
+                            "currency": "EUR"
+                        }
+                    }
+                ]
+            }
+        ],
+        "accommodations": [],
+        "firstJourneyDate": "2024-10-09T00:00:00+00:00",
+        "lastJourneyDate": "2024-10-16T00:00:00+00:00",
+        "suitableForReducedMobility": 0,
+        "images": [
+            {
+                "title": "Goldene Jahreszeit auf vier Fl\u00fcssen",
+                "size": 188460,
+                "author": null,
+                "urls": {
+                    "raw": "https:\/\/cdn.viva-cruises.com\/7a533b24-de67-47cd-ade6-05fd011f73f9\/goldene-jahreszeit-auf-vier-fluessen.jpeg",
+                    "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/7a533b24-de67-47cd-ade6-05fd011f73f9\/goldene-jahreszeit-auf-vier-fluessen.jpeg",
+                    "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/7a533b24-de67-47cd-ade6-05fd011f73f9\/goldene-jahreszeit-auf-vier-fluessen.jpeg",
+                    "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/7a533b24-de67-47cd-ade6-05fd011f73f9\/goldene-jahreszeit-auf-vier-fluessen.jpeg"
+                }
+            }
+        ],
+        "map": {
+            "title": "RUBY56_de.svg",
+            "size": null,
+            "author": null,
+            "urls": {
+                "raw": "https:\/\/cdn.viva-cruises.com\/fe27d96a-7498-4216-9a06-f66cc9a53476\/ruby56-de.svg%2Bxml",
+                "desktop": "https:\/\/cdn.viva-cruises.com\/fe27d96a-7498-4216-9a06-f66cc9a53476\/ruby56-de.svg%2Bxml",
+                "tablet": "https:\/\/cdn.viva-cruises.com\/fe27d96a-7498-4216-9a06-f66cc9a53476\/ruby56-de.svg%2Bxml",
+                "mobile": "https:\/\/cdn.viva-cruises.com\/fe27d96a-7498-4216-9a06-f66cc9a53476\/ruby56-de.svg%2Bxml"
+            }
+        },
+        "additionalStayBefore": [],
+        "additionalStayAfter": [],
+        "includedServices": [],
+        "excludedServices": [],
+        "includedActivities": "",
+        "accommodationText": null,
+        "fareText": null,
+        "reductionText": null,
+        "remarkText": "*Ausschiffung nach dem Fr\u00fchst\u00fcck.",
+        "additionalCostsText": "",
+        "ship": {
+            "id": "650b59e1055dc2d9ac07c92b",
+            "title": "SWISS RUBY",
+            "description": "<p style=\"text-align: justify;\">Erleben Sie mit der SWISS RUBY eine Reise gef\u00fcllt mit Wohlf\u00fchlmomenten und Genuss. Auf dem unserem Kulturschiff k\u00f6nnen Sie sich voll und ganz Entspannen. Geniessen Sie die wundersch\u00f6ne Aussicht vom Sonnendeck aus, w\u00e4hrenddem Sie sich auf einem Liegestuhl einen Drink g\u00f6nnen. Lassen Sie sich von den K\u00f6chen an Bord mit Gourmetessen im Hauptrestaurant kulinarisch verw\u00f6hnen. In der Panoramalounge k\u00f6nnen Sie gem\u00fctlich Ihren Kaffee oder Drink geniessen, w\u00e4hrend Sie die vorbeiziehende Landschaft beobachten. Kommen Sie auf eine unvergessliche Reise mit der SWISS RUBY.<\/p>",
+            "cabinInformation": "<p style=\"text-align: justify;\">Die SWISS RUBY verf\u00fcgt \u00fcber 44 komfortable Aussendoppelkabinen mit Platz f\u00fcr 88 G\u00e4ste. Auf dem Diamant Deck befinden sich Kabinen mit franz\u00f6sischen Balkonen, durch welche Sie vom Bett aus die wundersch\u00f6ne Landschaft geniessen k\u00f6nnen. Jede Kabine ist mit TV, Radio, Mini-Bar, Safe, Haartrockner, Klimaanlage sowie Dusche und WC komfortabel ausgestattet. Die Eingangshalle mit der Rezeption, sowie die einladene Lounge mit Panorama-Bar und Tanzfl\u00e4che finden Sie auf dem Diamant Deck. Die Boutique l\u00e4dt auf dem Smaragd Deck zum St\u00f6bern und Shoppen ein. Genuss f\u00fcr alle Sinne bietet das Schiffsrestaurant mit seinem zeitlosen eleganten Stil, der zum Verweilen einl\u00e4dt.<\/p>",
+            "fare": "",
+            "entertainment": "<h3>Das k\u00f6nnen Sie erwarten<\/h3>\n<h2>Highlights der SWISS RUBY<\/h2>\n<ul>\n<li>wahrhaftige Kulturschiff-Atmosph\u00e4re<br><br><\/li>\n<li>gem\u00fctliche Panorama Lounge<br><br><\/li>\n<li>Hauptrestaurant \"RIVERSIDE\" mit flexiblen Essenszeiten und freier Platzwahl<br><br><\/li>\n<li>Kabinen auf dem Rubindeck mit franz\u00f6sischem Balkon<br><br><\/li>\n<li>exklusiver Bordshop&nbsp;<br><br><\/li>\n<li>Bibliothek mit einer Auswahl an diversen B\u00fcchern und Spielen<\/li>\n<\/ul>",
+            "paymentOptions": "",
+            "equipment": "",
+            "technicalData": "",
+            "type": null,
+            "capacity": 88,
+            "crew": 23,
+            "locales": null,
+            "voltage": null,
+            "length": 85,
+            "width": 10,
+            "draught": null,
+            "wifi": null,
+            "images": [
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 236550,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/81d5c444-379f-46f7-86e3-f945c0e27932\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/81d5c444-379f-46f7-86e3-f945c0e27932\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/81d5c444-379f-46f7-86e3-f945c0e27932\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/81d5c444-379f-46f7-86e3-f945c0e27932\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 440945,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/ccdf9b66-3fdb-4855-99ee-3716734d63a3\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/ccdf9b66-3fdb-4855-99ee-3716734d63a3\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/ccdf9b66-3fdb-4855-99ee-3716734d63a3\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/ccdf9b66-3fdb-4855-99ee-3716734d63a3\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 349122,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/11ca25b5-5c1f-4b53-85da-4c34c2ba6730\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/11ca25b5-5c1f-4b53-85da-4c34c2ba6730\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/11ca25b5-5c1f-4b53-85da-4c34c2ba6730\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/11ca25b5-5c1f-4b53-85da-4c34c2ba6730\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 315136,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/6d080e47-14b9-42bf-b431-c7231937ba72\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/6d080e47-14b9-42bf-b431-c7231937ba72\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/6d080e47-14b9-42bf-b431-c7231937ba72\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/6d080e47-14b9-42bf-b431-c7231937ba72\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 490012,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/30d80678-7174-4a06-8c49-11ffd7ef06f7\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/30d80678-7174-4a06-8c49-11ffd7ef06f7\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/30d80678-7174-4a06-8c49-11ffd7ef06f7\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/30d80678-7174-4a06-8c49-11ffd7ef06f7\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 530023,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/1664779c-6eca-4b16-99f6-b4ad9acf18dc\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/1664779c-6eca-4b16-99f6-b4ad9acf18dc\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/1664779c-6eca-4b16-99f6-b4ad9acf18dc\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/1664779c-6eca-4b16-99f6-b4ad9acf18dc\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 297986,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/8cce1da6-5d74-424b-8d53-0c2be326714f\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/8cce1da6-5d74-424b-8d53-0c2be326714f\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/8cce1da6-5d74-424b-8d53-0c2be326714f\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/8cce1da6-5d74-424b-8d53-0c2be326714f\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 350964,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/e4403c8c-5adb-4e3b-b5cd-c49acd983b97\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/e4403c8c-5adb-4e3b-b5cd-c49acd983b97\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/e4403c8c-5adb-4e3b-b5cd-c49acd983b97\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/e4403c8c-5adb-4e3b-b5cd-c49acd983b97\/ms-swiss-ruby.jpeg"
+                    }
+                },
+                {
+                    "title": "MS SWISS RUBY",
+                    "size": 319912,
+                    "author": null,
+                    "urls": {
+                        "raw": "https:\/\/cdn.viva-cruises.com\/843dacd7-7809-4881-a5ea-15d4e80a3a96\/ms-swiss-ruby.jpeg",
+                        "desktop": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1600x-\/843dacd7-7809-4881-a5ea-15d4e80a3a96\/ms-swiss-ruby.jpeg",
+                        "tablet": "https:\/\/cdn.viva-cruises.com\/image\/resize\/1200x-\/843dacd7-7809-4881-a5ea-15d4e80a3a96\/ms-swiss-ruby.jpeg",
+                        "mobile": "https:\/\/cdn.viva-cruises.com\/image\/resize\/600x-\/843dacd7-7809-4881-a5ea-15d4e80a3a96\/ms-swiss-ruby.jpeg"
+                    }
+                }
+            ]
+        }
+    }
+}

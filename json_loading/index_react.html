@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>River Cruise Information</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div id="root" class="max-w-4xl mx-auto p-4">
+        <h1 class="text-2xl font-bold mb-4">Loading cruise information...</h1>
+    </div>
+
+    <script>
+        function createSection(title, content, key) {
+            const section = document.createElement('div');
+            section.className = 'mb-4';
+            section.innerHTML = `
+                <button class="flex justify-between items-center w-full bg-blue-100 p-2 rounded">
+                    <h2 class="text-lg font-semibold">${title}</h2>
+                    <span class="toggle-icon">▼</span>
+                </button>
+                <div class="content mt-2 p-2 bg-gray-50 rounded hidden">
+                    ${content}
+                </div>
+            `;
+            section.querySelector('button').addEventListener('click', () => {
+                const content = section.querySelector('.content');
+                const icon = section.querySelector('.toggle-icon');
+                content.classList.toggle('hidden');
+                icon.textContent = content.classList.contains('hidden') ? '▼' : '▲';
+            });
+            return section;
+        }
+
+        function renderCruiseInfo(cruiseData) {
+            const root = document.getElementById('root');
+            root.innerHTML = '<h1 class="text-2xl font-bold mb-4">River Cruise Information</h1>';
+
+            Object.values(cruiseData).forEach(data => {
+                if (!data.tour) return;
+
+                const tourDiv = document.createElement('div');
+                tourDiv.className = 'mb-8 p-4 border rounded';
+                tourDiv.innerHTML = `<h2 class="text-xl font-bold mb-4">${data.tour.title || 'Unnamed Tour'}</h2>`;
+
+                const sections = [
+                    {
+                        title: "Tour Details",
+                        content: `
+                            <p><strong>Tour Number:</strong> ${data.tour.tourNumber || 'N/A'}</p>
+                            <p><strong>Duration:</strong> ${data.tour.daysCount || 'N/A'} days</p>
+                            <p><strong>Countries:</strong> ${data.tour.countries ? data.tour.countries.map(c => c.name).join(', ') : 'N/A'}</p>
+                            <p><strong>Categories:</strong> ${data.tour.categories ? data.tour.categories.join(', ') : 'N/A'}</p>
+                        `
+                    },
+                    {
+                        title: "Description",
+                        content: data.tour.teaser || 'No description available.'
+                    },
+                    {
+                        title: "Itinerary",
+                        content: data.tour.days ? `
+                            <ul>
+                                ${data.tour.days.map(day => `
+                                    <li><strong>Day ${day.interval}:</strong> ${day.title}</li>
+                                `).join('')}
+                            </ul>
+                        ` : 'Itinerary not available.'
+                    },
+                    {
+                        title: "Ship Information",
+                        content: data.tour.ship ? `
+                            <h3 class="font-semibold">${data.tour.ship.title || 'Unnamed Ship'}</h3>
+                            <p><strong>Capacity:</strong> ${data.tour.ship.capacity || 'N/A'} passengers</p>
+                            <p><strong>Crew:</strong> ${data.tour.ship.crew || 'N/A'} members</p>
+                            ${data.tour.ship.description || ''}
+                        ` : 'Ship information not available.'
+                    },
+                    {
+                        title: "Included Services",
+                        content: data.tour.teaser && data.tour.teaser.match(/<h2>IMMER MIT DABEI: UNSER VIVA ALL-INCLUSIVE<\/h2>[\s\S]*?<\/div>/) 
+                            ? data.tour.teaser.match(/<h2>IMMER MIT DABEI: UNSER VIVA ALL-INCLUSIVE<\/h2>[\s\S]*?<\/div>/)[0]
+                            : 'Included services information not available.'
+                    },
+                    {
+                        title: "Additional Services",
+                        content: data.tour.additionalServices ? `
+                            <ul>
+                                ${data.tour.additionalServices.map(service => `
+                                    <li><strong>${service.title}</strong> - ${service.price.amount} ${service.price.currency}</li>
+                                `).join('')}
+                            </ul>
+                        ` : 'No additional services listed.'
+                    }
+                ];
+
+                sections.forEach(section => {
+                    tourDiv.appendChild(createSection(section.title, section.content));
+                });
+
+                root.appendChild(tourDiv);
+            });
+        }
+
+        async function loadJSONFiles() {
+            try {
+                const jsonFiles = [
+                    'VOYA17_rhone-kurs-mittelmeer.json',
+                    'VOYA21_idyllisches-suedfrankreich.json',
+                    'RUBY56_goldene-jahreszeit-auf-vier-fluessen.json'
+                ];
+                
+                const cruiseData = {};
+                for (const file of jsonFiles) {
+                    const response = await fetch(file);
+                    const data = await response.json();
+                    cruiseData[file] = data;
+                }
+                renderCruiseInfo(cruiseData);
+            } catch (error) {
+                console.error('Error loading cruise data:', error);
+                document.getElementById('root').innerHTML = `
+                    <h1 class="text-2xl font-bold mb-4">Error loading cruise information</h1>
+                    <p>Please check the console for more details.</p>
+                `;
+            }
+        }
+
+        loadJSONFiles();
+    </script>
+</body>
+</html>
